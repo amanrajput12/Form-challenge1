@@ -1,0 +1,62 @@
+body {
+  background-color: black;
+  box-sizing: border-box;
+}
+.form {
+  color: white;
+  position: relative;
+  height: 28rem;
+  width: 20rem;
+  margin: auto;
+  top: 6rem;
+  border: none;
+  border-radius: 1.5rem;
+  background-color: rgba(22, 11, 40, 0.627);
+}
+.title {
+  position: relative;
+  font-size: 2.5rem;
+  top: 3rem;
+  margin: 1.5rem;
+}
+.subtitle {
+  position: relative;
+  font-size: 1.2rem;
+  top: 1.5rem;
+  margin: 1.5rem;
+}
+
+.input-container {
+  position: relative;
+}
+.input-container > input {
+  position: relative;
+  margin: 1rem 0rem;
+  width: 16rem;
+  height: 2rem;
+  left: 2rem;
+  border-radius: 0.5rem;
+  background-color: rgba(74, 64, 90, 0.627);
+  border: none;
+}
+.placeholder {
+  position: absolute;
+  top: 1.2rem;
+  left: 3rem;
+  font-size: 1rem;
+  color: gray;
+}
+
+.submit {
+  position: absolute;
+  margin: auto;
+  bottom: 4rem;
+  left: 2rem;
+  width: 16rem;
+  height: 3rem;
+  background-color: rgba(78, 109, 235, 0.908);
+  color: white;
+  font-size: 1.5rem;
+  border-radius: 0.8rem;
+  cursor: pointer;
+}
