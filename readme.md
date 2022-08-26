@@ -2,7 +2,7 @@
 [project-live](https://formchallenge1.netlify.app)
    - - - -
  # Technology used in this project #
-  ![html](./images/html.svg) ![css](./images/css.svg)  
+  ![html](./Images/html.svg) ![css](./Images/css.svg)  
 - - - -
 * Skill Gained in this project
   
