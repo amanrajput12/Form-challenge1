@@ -1,4 +1,4 @@
-# Footer challenge 2 #
+# Form challenge 1 #
 [project-live](https://formchallenge1.netlify.app)
    - - - -
  # Technology used in this project #
